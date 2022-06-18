@@ -3,7 +3,8 @@
 
 # Bluetooth
 U terminalu na oba uređaja potrebno je ući u bluetooth postavke, to se postiže uspisujući u terminal naredbu: **bluetoothctl**.
-Na prvom uređaju zatim upisujemo: **scan on**, a na drugom: **discoverable on** i **pairable on**. Kada smo na prvom uređaju pronašli MAC adresu drugog, možemo zautaviti pretraživanje naredbom:**scan off**, zatim uparujemo uređaje naredbom:**pair  XX:XX:XX:XX:XX:XX**, gdje drugi dio naredbe predstavlja Mac adresu drugog uređaja. Iduće je potrebno unijeti narebu na oba uređaja: **trust  XX:XX:XX:XX:XX:XX** i MAC adresu suprotnog uređaja. Nakon toga možemo ih povezati: **connect  XX:XX:XX:XX:XX:XX**. **** 
+Na prvom uređaju zatim upisujemo: **scan on**, a na drugom: **discoverable on** i **pairable on**. Kada smo na prvom uređaju pronašli MAC adresu drugog, možemo zautaviti pretraživanje naredbom:**scan off**, zatim uparujemo uređaje naredbom:**pair  XX:XX:XX:XX:XX:XX**, gdje drugi dio naredbe predstavlja Mac adresu drugog uređaja. Iduće je potrebno unijeti narebu na oba uređaja: **trust  XX:XX:XX:XX:XX:XX** i MAC adresu suprotnog uređaja. Nakon toga možemo ih povezati: **connect  XX:XX:XX:XX:XX:XX**. 
+#
 Za pokretanje Blutooth programa potrebno se u terminalu pozicionirati unutar mapa sa programima.
 1. Na prvom Raspberry Piu koji će primati poruke pokrećemo server.py:
   **python3 server.py**
