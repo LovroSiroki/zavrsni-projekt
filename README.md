@@ -1,4 +1,5 @@
 # Određivanje pouzdanosti bežičnih komunikacijskih protokola
+#
 
 
 # Bluetooth
@@ -13,7 +14,7 @@ Za pokretanje Blutooth programa potrebno se u terminalu pozicionirati unutar map
   
 2. Na drugom Raspberry Piu potrebno je pokrenuti client.py:
   **python3 client.py**
-
+#
 # Zigbee
 Potrebno je uključiti XBee module u Raspberry.Za pokretanje Blutooth programa potrebno se u terminalu pozicionirati unutar mapa sa programima.
 1. Na prvom Raspberry Pi pokrećemo receiver.py program koji će zapisivati mjerenja:
