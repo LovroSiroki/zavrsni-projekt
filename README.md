@@ -1,3 +1,3 @@
-# zavrsni-projekt Odredivanje pouzdanosti bežičnih komunikacijskih
-protokola
+# Odredivanje pouzdanosti bežičnih komunikacijskih protokola
+
 
