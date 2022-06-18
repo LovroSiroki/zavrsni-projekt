@@ -67,7 +67,7 @@ stala	1.set	2.set
 primjer poslane kraće poruke(1.set):"11 2022-06-05 19:59:03.490204"
 primjer poslane duge poruke(2.set):"31 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 19:59:23.517657"
 
-primjer spajanja polovicne poruke s iducom:"data: 57 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest se58 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 19:59:50.554539"
+primjer spajanja polovicne poruke s iducom:"57 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest se58 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 19:59:50.554539"
 
 primjer prvog djela polovične poruke:"50 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest se"
 primjer drugog djela polovične poruke:"damnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 20:11:55.587084"	
