@@ -1,0 +1,33 @@
+RSSI return value: -31
+RSSI return value: -17
+RSSI return value: -15
+RSSI return value: -21
+RSSI return value: -26
+RSSI return value: -31
+RSSI return value: -31
+RSSI return value: -34
+init
+starting
+DC:A6:32:EA:1F:BF
+waiting for connection
+client connected
+server: msg: 1 2022-06-05 19:50:48.602960 
+ 2022-06-05 19:50:48.775979
+server: msg: 2 2022-06-05 19:50:49.604083 
+ 2022-06-05 19:50:49.762939
+server: msg: 3 2022-06-05 19:50:50.605245 
+ 2022-06-05 19:50:50.768200
+server: msg: 4 2022-06-05 19:50:51.606404 
+ 2022-06-05 19:50:51.773333
+server: msg: 5 2022-06-05 19:50:52.607611 
+ 2022-06-05 19:50:52.788656
+server: msg: 6 2022-06-05 19:50:53.608790 
+ 2022-06-05 19:50:53.773923
+server: msg: 7 2022-06-05 19:50:54.609911 
+ 2022-06-05 19:50:54.778585
+server: msg: 8 2022-06-05 19:50:55.610965 
+ 2022-06-05 19:50:55.814323
+client disconnected
+cancelled by user
+stopping
+stopped

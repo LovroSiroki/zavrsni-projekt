@@ -1,0 +1,73 @@
+bluetooth_mjerenja
+
+kod bluetootha su sve poruke primjene osim u slucaju kada bi se veza naprasno prekinula
+*****
+livada
+5m -----RSSI_avg=0
+10m-----RSSI_avg=-6
+25m-----RSSI_avg=-16
+50m-----RSSI_avg=-27
+75m-----RSSI_avg=-30
+100m----RSSI_avg=-28
+125m----RSSI_avg=-35
+
+
+*****
+suma
+5m -----RSSI_avg=-3
+10m-----RSSI_avg=-18
+25m-----RSSI_avg=-33	(na 25 m iz nekog razloga nema poruka nego samo RSSI vrijednosti)
+
+
+*****
+stala
+10m-----RSSI_avg=-26	8 poruka(prekid konekcije)
+25m-----RSSI_avg=N/A	0 poruka(odmah prekinuto)
+________________________________________________
+
+ZigBee_mjerenja
+	
+*****
+livada	1.set	2.set
+5m----- 30/30	30/30		60/60
+10m----	30/30	30/30		60/60
+25m----	30/30	30/30		60/60
+50m----	30/30	30/30		60/60
+75m----	30/30	30/30		60/60
+100m---	30/30	30/30		60/60
+125m---	30/30	30/30		60/60
+150m---	30/30	30/30		60/60
+175m---	30/30	30/30		60/60
+200m---	30/30	30/30		60/60
+225m---	26/30	28/30		54/60
+250m---	15/30	19/20 + 2 neispravne(polovicne) poruke	34/60
+275m---	19/30	21/30 + 2 neispravne(1 polovicne, a druga neispravna je rezultat spajanja polovične poruke sa cijelom iduce odaslanom porukom)	40/60
+300m---	11/30	 9/30 + 3 neispravne(polovicne)		20/60
+
+*****
+suma	1.set	2.set
+5m-----	30/30	30/30		60/60
+25m---- 30/30	30/30		60/60
+40m----	30/30	30/30		60/60
+45m----	22/30	 9/30		31/60
+50m----	 1/30	 9/30 + 4 neispravne(polovicne)	10/60
+55m----	 2/30	 0/30		 2/60
+
+*NAPOMENA*
+Na udaljenosti od 40 do 50 metara suma je naglo presla u livadu sto je izgleda utjecalo na rezultate. Prema rezultatima izgleda da se signal bolje siri u ravnomjernoj sumi(???) nego kada se javljaju promjene u terenu. Zbog toga sam jos proveo neplanirana mjerenja(40m, 45m, 55m).
+
+*****
+stala	1.set	2.set
+10m----	28/30	27/30 + 1 neispravna(polovicna poruka spojena sa cijelom iducom) *NAPOMENA* Na ovom mjerenju uređaji su postavljeni uz zid objekta sto izgleda utjece na rezultat"
+25m----	30/30	30/30
+50m----	 9/30	30/30
+70m----	23/30	26/30 + 1 neispravna(polovicna)
+80m----	 1/30	10/30 + 5 neispravnih(3 polovicne, 2 polovicne spojene s cijelom iducom porukom)
+
+primjer poslane kraće poruke(1.set):"11 2022-06-05 19:59:03.490204"
+primjer poslane duge poruke(2.set):"31 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 19:59:23.517657"
+
+primjer spajanja polovicne poruke s iducom:"data: 57 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest se58 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 19:59:50.554539"
+
+primjer prvog djela polovične poruke:"50 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest se"
+primjer drugog djela polovične poruke:"damnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 20:11:55.587084"	

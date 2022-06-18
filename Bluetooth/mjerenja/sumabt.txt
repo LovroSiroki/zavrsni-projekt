@@ -1,0 +1,402 @@
+RSSI return value: -2
+RSSI return value: 0
+RSSI return value: 0
+RSSI return value: -4
+RSSI return value: -3
+RSSI return value: 0
+RSSI return value: -7
+RSSI return value: 0
+RSSI return value: -4
+RSSI return value: -8
+RSSI return value: -2
+RSSI return value: -2
+RSSI return value: -3
+RSSI return value: -2
+RSSI return value: -2
+RSSI return value: -4
+RSSI return value: 0
+RSSI return value: -1
+RSSI return value: -1
+RSSI return value: 0
+RSSI return value: 0
+RSSI return value: 0
+RSSI return value: -1
+RSSI return value: -1
+RSSI return value: 0
+RSSI return value: -4
+RSSI return value: -1
+RSSI return value: -1
+RSSI return value: 0
+RSSI return value: -3
+RSSI return value: 0
+RSSI return value: 0
+RSSI return value: -2
+RSSI return value: -4
+RSSI return value: -2
+RSSI return value: -1
+RSSI return value: -4
+RSSI return value: -6
+RSSI return value: -8
+RSSI return value: -15
+RSSI return value: -1
+RSSI return value: -4
+RSSI return value: -2
+RSSI return value: -3
+RSSI return value: 0
+RSSI return value: 0
+RSSI return value: 0
+RSSI return value: 0
+RSSI return value: -1
+RSSI return value: -3
+RSSI return value: -2
+RSSI return value: -4
+RSSI return value: -1
+RSSI return value: -1
+RSSI return value: -5
+RSSI return value: -1
+RSSI return value: 0
+RSSI return value: -2
+RSSI return value: 0
+init
+starting
+DC:A6:32:EA:1F:BF
+waiting for connection
+client connected
+server: msg: 1 2022-06-05 18:22:19.871099 
+
+server: msg: 2 2022-06-05 18:22:20.872244 
+
+server: msg: 3 2022-06-05 18:22:21.873421 
+
+server: msg: 4 2022-06-05 18:22:22.874627 
+
+server: msg: 5 2022-06-05 18:22:23.875815 
+
+server: msg: 6 2022-06-05 18:22:24.877000 
+
+server: msg: 7 2022-06-05 18:22:25.878185 
+
+server: msg: 8 2022-06-05 18:22:26.879361 
+
+server: msg: 9 2022-06-05 18:22:27.880535 
+
+server: msg: 10 2022-06-05 18:22:28.881460 
+
+server: msg: 11 2022-06-05 18:22:29.882638 
+
+server: msg: 12 2022-06-05 18:22:30.883814 
+
+server: msg: 13 2022-06-05 18:22:31.884994 
+
+server: msg: 14 2022-06-05 18:22:32.886175 
+
+server: msg: 15 2022-06-05 18:22:33.887355 
+
+server: msg: 16 2022-06-05 18:22:34.888533 
+
+server: msg: 17 2022-06-05 18:22:35.889714 
+
+server: msg: 18 2022-06-05 18:22:36.890895 
+
+server: msg: 19 2022-06-05 18:22:37.892072 
+
+server: msg: 20 2022-06-05 18:22:38.893257 
+
+server: msg: 21 2022-06-05 18:22:39.894453 
+
+server: msg: 22 2022-06-05 18:22:40.895800 
+
+server: msg: 23 2022-06-05 18:22:41.897048 
+
+server: msg: 24 2022-06-05 18:22:42.898295 
+
+server: msg: 25 2022-06-05 18:22:43.899535 
+
+server: msg: 26 2022-06-05 18:22:44.900775 
+
+server: msg: 27 2022-06-05 18:22:45.902070 
+
+server: msg: 28 2022-06-05 18:22:46.903320 
+
+server: msg: 29 2022-06-05 18:22:47.904566 
+
+server: msg: 30 2022-06-05 18:22:48.905843 
+
+server: msg: 31 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:22:49.907120 
+
+server: msg: 32 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:22:50.908380 
+
+server: msg: 33 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:22:51.909636 
+
+server: msg: 34 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:22:52.910901 
+
+server: msg: 35 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:22:53.912176 
+
+server: msg: 36 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:22:54.913461 
+
+server: msg: 37 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:22:55.914746 
+
+server: msg: 38 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:22:56.916026 
+
+server: msg: 39 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:22:57.917239 
+
+server: msg: 40 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:22:58.918448 
+
+server: msg: 41 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:22:59.919662 
+
+server: msg: 42 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:23:00.920877 
+
+server: msg: 43 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:23:01.922120 
+
+server: msg: 44 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:23:02.923397 
+
+server: msg: 45 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:23:03.924681 
+
+server: msg: 46 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:23:04.925895 
+
+server: msg: 47 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:23:05.927111 
+
+server: msg: 48 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:23:06.928323 
+
+server: msg: 49 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:23:07.929534 
+
+server: msg: 50 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:23:08.930746 
+
+server: msg: 51 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:23:09.931952 
+
+server: msg: 52 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:23:10.933154 
+
+server: msg: 53 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:23:11.934404 
+
+server: msg: 54 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:23:12.935678 
+
+server: msg: 55 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:23:13.936547 
+
+server: msg: 56 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:23:14.937805 
+
+server: msg: 57 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:23:15.939060 
+
+server: msg: 58 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:23:16.940312 
+
+server: msg: 59 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:23:17.941563 
+
+server: msg: 60 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:23:18.942813 
+RSSI return value: 0
+RSSI return value: -23
+RSSI return value: -19
+RSSI return value: -14
+RSSI return value: -18
+RSSI return value: -3
+RSSI return value: -6
+RSSI return value: -14
+RSSI return value: -11
+RSSI return value: -22
+RSSI return value: -17
+RSSI return value: -15
+RSSI return value: -18
+RSSI return value: -17
+RSSI return value: -16
+RSSI return value: -14
+RSSI return value: -12
+RSSI return value: -5
+RSSI return value: -17
+RSSI return value: -19
+RSSI return value: -19
+RSSI return value: -15
+RSSI return value: -16
+RSSI return value: -13
+RSSI return value: -17
+RSSI return value: -15
+RSSI return value: -19
+RSSI return value: -18
+RSSI return value: -18
+RSSI return value: -16
+RSSI return value: -19
+RSSI return value: -14
+RSSI return value: -18
+RSSI return value: -17
+RSSI return value: -14
+RSSI return value: 0
+RSSI return value: -15
+RSSI return value: -11
+RSSI return value: -17
+RSSI return value: -16
+RSSI return value: -13
+RSSI return value: -21
+RSSI return value: -11
+RSSI return value: -15
+RSSI return value: -15
+RSSI return value: -12
+RSSI return value: -11
+RSSI return value: -12
+RSSI return value: -18
+RSSI return value: -19
+RSSI return value: 0
+RSSI return value: -7
+RSSI return value: -3
+RSSI return value: -7
+RSSI return value: -6
+RSSI return value: -8
+RSSI return value: -8
+RSSI return value: -7
+RSSI return value: -7
+RSSI return value: -7
+RSSI return value: -7
+
+client disconnected
+client connected
+server: msg: 1 2022-06-05 18:23:53.881353 
+
+server: msg: 2 2022-06-05 18:23:54.882487 
+
+server: msg: 3 2022-06-05 18:23:55.883666 
+
+server: msg: 4 2022-06-05 18:23:56.884836 
+
+server: msg: 5 2022-06-05 18:23:57.886011 
+
+server: msg: 6 2022-06-05 18:23:58.887201 
+
+server: msg: 7 2022-06-05 18:23:59.888388 
+
+server: msg: 8 2022-06-05 18:24:00.889558 
+
+server: msg: 9 2022-06-05 18:24:01.890166 
+
+server: msg: 10 2022-06-05 18:24:02.891416 
+
+server: msg: 11 2022-06-05 18:24:03.892748 
+
+server: msg: 12 2022-06-05 18:24:04.893997 
+
+server: msg: 13 2022-06-05 18:24:05.895323 
+
+server: msg: 14 2022-06-05 18:24:06.896569 
+
+server: msg: 15 2022-06-05 18:24:07.897900 
+
+server: msg: 16 2022-06-05 18:24:08.899147 
+
+server: msg: 17 2022-06-05 18:24:09.900253 
+
+server: msg: 18 2022-06-05 18:24:10.901517 
+
+server: msg: 19 2022-06-05 18:24:11.902867 
+
+server: msg: 20 2022-06-05 18:24:12.904109 
+
+server: msg: 21 2022-06-05 18:24:13.905434 
+
+server: msg: 22 2022-06-05 18:24:14.906675 
+
+server: msg: 23 2022-06-05 18:24:15.907992 
+
+server: msg: 24 2022-06-05 18:24:16.909230 
+
+server: msg: 25 2022-06-05 18:24:17.910565 
+
+server: msg: 26 2022-06-05 18:24:18.911811 
+
+server: msg: 27 2022-06-05 18:24:19.913129 
+
+server: msg: 28 2022-06-05 18:24:20.914364 
+
+server: msg: 29 2022-06-05 18:24:21.915718 
+
+server: msg: 30 2022-06-05 18:24:22.916953 
+
+server: msg: 31 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:24:23.918287 
+
+server: msg: 32 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:24:24.919524 
+
+server: msg: 33 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:24:25.920843 
+
+server: msg: 34 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:24:26.922078 
+
+server: msg: 35 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:24:27.923404 
+
+server: msg: 36 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:24:28.924656 
+
+server: msg: 37 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:24:29.925974 
+
+server: msg: 38 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:24:30.927254 
+
+server: msg: 39 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:24:31.928577 
+
+server: msg: 40 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:24:32.929830 
+
+server: msg: 41 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:24:33.931154 
+
+server: msg: 42 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:24:34.932392 
+
+server: msg: 43 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:24:35.933724 
+
+server: msg: 44 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:24:36.934973 
+
+server: msg: 45 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:24:37.936306 
+
+server: msg: 46 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:24:38.937594 
+
+server: msg: 47 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:24:39.938927 
+
+server: msg: 48 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:24:40.940190 
+
+server: msg: 49 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:24:41.941528 
+
+server: msg: 50 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:24:42.942779 
+
+server: msg: 51 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:24:43.944114 
+
+server: msg: 52 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:24:44.944666 
+
+server: msg: 53 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:24:45.946012 
+
+server: msg: 54 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:24:46.947265 
+
+server: msg: 55 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:24:47.948600 
+
+server: msg: 56 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:24:48.949853 
+
+server: msg: 57 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:24:49.951197 
+
+server: msg: 58 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:24:50.952456 
+
+server: msg: 59 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:24:51.953807 
+
+server: msg: 60 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 18:24:52.954716 
+
+client disconnectedRSSI return value: -30
+RSSI return value: -31
+RSSI return value: -29
+RSSI return value: -24
+RSSI return value: -31
+RSSI return value: -26
+RSSI return value: -29
+RSSI return value: -36
+RSSI return value: -32
+RSSI return value: -31
+RSSI return value: -30
+RSSI return value: -31
+RSSI return value: -33
+RSSI return value: -30
+RSSI return value: -34
+RSSI return value: -31
+RSSI return value: -32
+RSSI return value: -35
+RSSI return value: -38
+RSSI return value: -32
+RSSI return value: -34
+RSSI return value: -34
+RSSI return value: -33
+RSSI return value: -34
+RSSI return value: -34
+RSSI return value: -35
+RSSI return value: -34
+RSSI return value: -37
+RSSI return value: -34
+RSSI return value: -34
+RSSI return value: -33
+RSSI return value: -37
+RSSI return value: -31
+RSSI return value: -33
+RSSI return value: -37

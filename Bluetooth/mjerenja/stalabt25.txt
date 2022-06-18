@@ -1,0 +1,7 @@
+init
+starting
+DC:A6:32:EA:1F:BF
+waiting for connection
+cancelled by user
+stopping
+stopped

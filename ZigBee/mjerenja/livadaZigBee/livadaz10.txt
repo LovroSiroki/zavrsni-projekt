@@ -1,0 +1,61 @@
+starting
+data: 1 2022-06-05 20:33:36.8224292022-06-05 20:33:36.960093
+data: 2 2022-06-05 20:33:37.8243652022-06-05 20:33:37.967632
+data: 3 2022-06-05 20:33:38.8259382022-06-05 20:33:38.960335
+data: 4 2022-06-05 20:33:39.8273052022-06-05 20:33:39.967831
+data: 5 2022-06-05 20:33:40.8287512022-06-05 20:33:40.975476
+data: 6 2022-06-05 20:33:41.8301112022-06-05 20:33:41.968280
+data: 7 2022-06-05 20:33:42.8314922022-06-05 20:33:42.975709
+data: 8 2022-06-05 20:33:43.8328412022-06-05 20:33:43.968411
+data: 9 2022-06-05 20:33:44.8341882022-06-05 20:33:44.976043
+data: 10 2022-06-05 20:33:45.8363952022-06-05 20:33:45.983699
+data: 11 2022-06-05 20:33:46.8383942022-06-05 20:33:46.976664
+data: 12 2022-06-05 20:33:47.8398362022-06-05 20:33:47.983984
+data: 13 2022-06-05 20:33:48.8415362022-06-05 20:33:48.991619
+data: 14 2022-06-05 20:33:49.8432192022-06-05 20:33:49.984333
+data: 15 2022-06-05 20:33:50.8448692022-06-05 20:33:50.991964
+data: 16 2022-06-05 20:33:51.8465072022-06-05 20:33:51.984693
+data: 17 2022-06-05 20:33:52.8481462022-06-05 20:33:52.992187
+data: 18 2022-06-05 20:33:53.8498712022-06-05 20:33:53.999752
+data: 19 2022-06-05 20:33:54.8515642022-06-05 20:33:54.992522
+data: 20 2022-06-05 20:33:55.8532382022-06-05 20:33:55.999996
+data: 21 2022-06-05 20:33:56.8548852022-06-05 20:33:56.992711
+data: 22 2022-06-05 20:33:57.8565672022-06-05 20:33:58.000250
+data: 23 2022-06-05 20:33:58.8582352022-06-05 20:33:59.007882
+data: 24 2022-06-05 20:33:59.8599432022-06-05 20:34:00.000664
+data: 25 2022-06-05 20:34:00.8616452022-06-05 20:34:01.008123
+data: 26 2022-06-05 20:34:01.8632972022-06-05 20:34:02.000876
+data: 27 2022-06-05 20:34:02.8649452022-06-05 20:34:03.008375
+data: 28 2022-06-05 20:34:03.8671442022-06-05 20:34:04.016215
+data: 29 2022-06-05 20:34:04.8694602022-06-05 20:34:05.008834
+data: 30 2022-06-05 20:34:05.8708462022-06-05 20:34:06.016481
+data: 31 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 20:34:06.8733592022-06-05 20:34:07.296203
+data: 32 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 20:34:07.8747202022-06-05 20:34:08.288847
+data: 33 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 20:34:08.8764032022-06-05 20:34:09.296439
+data: 34 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 20:34:09.8780392022-06-05 20:34:10.304066
+data: 35 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 20:34:10.8796672022-06-05 20:34:11.296737
+data: 36 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 20:34:11.8819582022-06-05 20:34:12.304328
+data: 37 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 20:34:12.8838712022-06-05 20:34:13.296968
+data: 38 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 20:34:13.8852282022-06-05 20:34:14.304606
+data: 39 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 20:34:14.8868662022-06-05 20:34:15.312252
+data: 40 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 20:34:15.8894182022-06-05 20:34:16.304873
+data: 41 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 20:34:16.8907802022-06-05 20:34:17.312606
+data: 42 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 20:34:17.8931442022-06-05 20:34:18.320243
+data: 43 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 20:34:18.8945052022-06-05 20:34:19.312849
+data: 44 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 20:34:19.8961592022-06-05 20:34:20.320477
+data: 45 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 20:34:20.8977872022-06-05 20:34:21.313081
+data: 46 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 20:34:21.8999702022-06-05 20:34:22.320730
+data: 47 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 20:34:22.9013262022-06-05 20:34:23.328347
+data: 48 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 20:34:23.9029522022-06-05 20:34:24.321023
+data: 49 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 20:34:24.9046162022-06-05 20:34:25.328685
+data: 50 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 20:34:25.9062792022-06-05 20:34:26.321260
+data: 51 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 20:34:26.9079122022-06-05 20:34:27.328814
+data: 52 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 20:34:27.9095672022-06-05 20:34:28.336507
+data: 53 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 20:34:28.9111982022-06-05 20:34:29.329130
+data: 54 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 20:34:29.9134382022-06-05 20:34:30.336778
+data: 55 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 20:34:30.9148192022-06-05 20:34:31.329423
+data: 56 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 20:34:31.9173782022-06-05 20:34:32.337046
+data: 57 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 20:34:32.9196832022-06-05 20:34:33.344696
+data: 58 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 20:34:33.9210762022-06-05 20:34:34.337362
+data: 59 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 20:34:34.9227422022-06-05 20:34:35.344998
+data: 60 jedan dva tri cetiri pet sest sedam osam devet deset jedanaest dvanaest trinaest cetrnaest petnaest sesnaest sedamnaest osamnaest devetnaest dvadeset 1234567891011121314151617181920 2022-06-05 20:34:35.9243952022-06-05 20:34:36.337613
