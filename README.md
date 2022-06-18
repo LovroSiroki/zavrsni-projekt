@@ -1,3 +1,3 @@
-# Odredivanje pouzdanosti bežičnih komunikacijskih protokola
+# Određivanje pouzdanosti bežičnih komunikacijskih protokola
 
-
+**Bluetooth**
