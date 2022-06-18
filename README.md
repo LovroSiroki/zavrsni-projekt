@@ -13,4 +13,5 @@ Za pokretanje Blutooth programa potrebno se u terminalu pozicionirati unutar map
 
 # Zigbee
 Potrebno je uključiti XBee module u Raspberry.Za pokretanje Blutooth programa potrebno se u terminalu pozicionirati unutar mapa sa programima.
-1. Na prvom Raspberry Pi pokrećemo receiver.py program koji će zapisivati mjerenja
+1. Na prvom Raspberry Pi pokrećemo receiver.py program koji će zapisivati mjerenja:
+  **python receiver.py** ili opcionalno ukoliko želimo rezultate mjerenja primiti u "datoteku": **python receiver.py > datoteka**
